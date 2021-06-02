@@ -1,4 +1,6 @@
 {
-  "name": "Pushnotifications",
-  "displayName": "Pushnotifications"
+  "expo": {
+    "name": "My app",
+    "slug": "my-app"
+  }
 }
